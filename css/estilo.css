@@ -5,208 +5,246 @@
     background-color: #121215;
 }
 
+section{
+    
 
+    position: relative;
+    width: 100%;
+    height: 3234px;
+    
+    background: #121215;
 
+}
+
+div intro{
+position: absolute;
+width: 1778px;
+height: 936px;
+left: 0px;
+top: 0px;
+}
 .retangulo{
 width: 100%;
 height: 196px;
 left: 0px;
 top: 0px;
-background:linear-gradient(180deg, rgba(38, 12, 71, 0.81) 0%, rgba(38, 12, 71, 0) 100%);
 
-
+background: linear-gradient(180deg, rgba(38, 12, 71, 0.81) 0%, rgba(38, 12, 71, 0) 100%);
 }
 
 .fotoyo{
-    position: absolute;
-    width: 342px;
-    height: 340px;
-    left: 80px;
-    top: 196px;
-    border: 1px solid #050507;
-    border-radius: 10px;
+position: absolute;
+width: 342px;
+height: 340px;
+left: 80px;
+top: 196px;
+border: 1px solid #050507;
+
+border-radius: 10px;
 }
 
 h2{
-position: absolute;
-width: 442px;
-height: 100px;
-left: 693;
-top: 370px;
-
-font-family:  'IM FELL Double Pica', serif;
-font-weight: 400;
-font-size: 40px;
-line-height: 50px;
-color: #F9F9FA;
+    position: absolute;
+    width: 442px;
+    height: 100px;
+    left: 693px;
+    top: 370px;
+    
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    
+    color: #FFFFFF;
+    
 
 }
 
 p{
-    position: absolute;
-    width: 552px;
-    height: 230px;
-    left: 693px;
-    top: 557px;
-
-    font-family:  'IM FELL Double Pica', serif;   
-    font-weight: 400;
-    font-size: 36px;
-    line-height: 45px;
-    color: #FAF7FF;
-
-
-}
-                                                                                                                              
-.linha{
     
 position: absolute;
-width: 1574.38px;
-height: 26.5px;
-left: 128.02px;
-top: 1012px;
+width: 552px;
+height: 230px;
+left: 693px;
+top: 557px;
 
-background: linear-gradient(180deg, rgba(38, 12, 71, 0.81) 0%, rgba(38, 12, 71, 0) 100%);
-transform: rotate(0.04deg);
+font-family: 'IM FELL Double Pica';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 45px;
+
+color: #FFFFFF;
+
 }
 
+div texto{
+    
+position: absolute;
+width: 317px;
+height: 120px;
+left: 737px;
+top: 1072px;
 
+}
 
 h3{
-    position: relative;
-    width: 417px;
-    height: 120px;
-    left: 500px;
-    top: 700;
+    
+position: absolute;
+width: 417px;
+height: 120px;
+left: 500px;
+top: 700;
 
-    font-family: 'IM FELL Double Pica', serif ;
-    font-weight: 400;
-    font-size: 48px;
-    line-height: 60px;
-    color: #FFFFFF;
+font-family: 'IM FELL Double Pica';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+
+color: #FFFFFF;
 
 }
 
+
 h4{
+    
 position: absolute;
 width: 278px;
 height: 45px;
 left: 530px;
 top: 1050px;
 
-font-family: 'IM FELL Double Pica', serif;
+font-family: 'IM FELL Double Pica';
+font-style: normal;
 font-weight: 400;
 font-size: 36px;
 line-height: 45px;
-color: #FFFFFF;
 
-}
+color: #FFFFFF;}
+
 
 .trabalho{
 
-    position: absolute;
-    width: 1758.46px;
-    height: 1949.19px;
-    left: 0.33px;
-    top: 1305px;
+position: absolute;
+width: 1758.46px;
+height: 1949.19px;
+left: 0.33px;
+top: 1305px;
 
 }
 
 .branco{
-    position: absolute;
-    width: 390px;
-    height: 844px;
-    left: 179px;
-    top: 0px;
-    background: #FFFFFF;
+
+position: absolute;
+width: 390px;
+height: 844px;
+left: 179px;
+top: 0px;
+
+background: #FFFFFF;
+
 }
 
 .preto{
-    position: absolute;
-    width: 416px;
-    height: 844px;
-    left: 800px;
-    top: 0px;
-  
+    
+position: absolute;
+width: 416px;
+height: 844px;
+left: 800px;
+top: 0px;
+
+background: #161616;
 }
 
+
+
 .starhere{
-position: absolute;
-width:323px;
-height: 662px;
-left: 800px;
-top: 1052px;
+    position: absolute;
+    width: 323px;
+    height: 662px;
+    left: 800px;
+    top: 1052px;
+    
 
 }
 
 .exercicio{
+    
 position: absolute;
 width: 438px;
 height: 844px;
 left: 155px;
 top: 931px;
+
 background: #111010;
 border-radius: 6px;
-
 }
 
-.cite{
-    color: #c7b0e4;
-    position: absolute;
-    width: 212px;
-    height: 45px;
-    left: 246px;
-    top: 1835px;
-    background-color: transparent;
-}
+
+cite{
+color:  #C7B0E4;
+position: absolute;
+width: 212px;
+height: 45px;
+left: 246px;
+top: 1835px;
+background-color: transparent;
+     
+ }
 
 .rodape{
-    position: absolute;
-    width: 1758.35px                                                                                                                                       ;
-    height: 151px;
-    left: 0.11px;
-    top: 1796.86px;
-    background: linear-gradient(180deg, rgba(38, 12, 71, 0.81) 0%, rgba(38, 12, 71, 0) 100%);
+    
+position: absolute;
+width: 1758.35px;
+height: 151px;
+left: 0.11px;
+top: 1796.86px;
+
+background: linear-gradient(180deg, rgba(38, 12, 71, 0.81) 0%, rgba(38, 12, 71, 0) 100%);
 transform: rotate(0.04deg);
 }
 
 .header{
-position: absolute;
-width: 226px;
-height: 80px;
-left: 197px;
-top: 38px;
 
-font-family: 'IM FELL Double Pica';
-font-weight: 400;
-font-size: 64px;
-line-height: 80px;
-background-color: transparent;
-
+    position: absolute;
+    width: 226px;
+    height: 80px;
+    left: 197px;
+    top: 38px;
+    
+    font-family: 'IM FELL Double Pica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    background-color: transparent;
+    
 }
 
-.foote{
-position: absolute;
-width: 116px;
-height: 106px;
-left: 302px;
-top: 1810px;
-background-color: transparent;
-
-}
 
 .footer{
-position: absolute;
-left: 14.92%;
-right: 76.59%;
-top: 97.36%;
-bottom: 0.82%;
-font-family: 'IM FELL Double Pica';
-font-style: italic;
-font-weight: 400;
-font-size: 28px;
-line-height: 35px;
-color: #FFFFFF;
-background-color: transparent;
-
+    position: absolute;
+    left: 13.92%;
+    right: 79.59%;
+    top: 96.36%;
+    bottom: 0.82%;
+    font-family: 'IM FELL Double Pica';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    color: #FFFFFF;
+    background-color: transparent;
+    
+}
+    
+ .foote{    
+    position: absolute;
+    width: 114px;
+    height: 104px;
+    left: 120px;
+    top: 1840px;
+    background-color: transparent;
 }
